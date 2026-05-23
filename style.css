@@ -20,7 +20,6 @@ body{
 .textPlan h3{
     font-size: clamp(2rem, 7vw + .5rem, 5em);
     font-weight: 500;
-    letter-spacing: -5px;
 }
 .textPlan p{
     font-weight: 500;
